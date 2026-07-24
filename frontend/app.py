@@ -3,9 +3,27 @@ import requests
 from datetime import datetime
 import time
 
-API_URL = "http://127.0.0.1:8000/ask"
-
 api_key = st.secrets["ANTHROPIC_API_KEY"]
+
+APP_PASSWORD = st.secrets["APP_PASSWORD"] 
+
+if "logged_in" not in st.session_state:
+    st.session_state.logged_in = False
+
+if not st.session_state.logged_in:
+    st.title("Login")
+    password = st.text_input("Password", type="password")
+
+    if st.button("Login"):
+        if password == APP_PASSWORD:
+            st.session_state.logged_in = True
+            st.rerun()
+        else:
+            st.error("Wrong password")
+
+    st.stop()
+
+API_URL = st.secrets["API_URL"]
 
 st.set_page_config(
     page_title="Amplytico Reference Intelligence Agent", page_icon="🏗️", layout="centered"
@@ -295,8 +313,14 @@ if prompt := st.chat_input("Ask a construction safety question..."):
                 response = requests.post(
                     API_URL,
                     json={"question": prompt, "history": history},
-                    timeout=30,
+                    timeout=120,
                 )
+
+                # st.write("API_URL:", API_URL)
+                # st.write("Status:", response.status_code)
+                # st.write("Raw response:", response.text)
+
+                response.raise_for_status()
                 data = response.json()
 
             # Streaming effect
@@ -382,4 +406,4 @@ if prompt := st.chat_input("Ask a construction safety question..."):
                 f"Backend not running. Start it with:\nuvicorn api.main:app --reload --port 8000\n\nError: {e}"
             )
 
-    st.rerun()
+    # st.rerun()
