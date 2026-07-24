@@ -5,6 +5,8 @@ import time
 
 API_URL = "http://localhost:8000/ask"
 
+api_key = st.secrets["ANTHROPIC_API_KEY"]
+
 st.set_page_config(
     page_title="Amplytico Reference Intelligence Agent", page_icon="🏗️", layout="centered"
 )
