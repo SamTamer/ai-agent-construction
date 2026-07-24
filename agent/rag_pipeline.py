@@ -27,7 +27,7 @@ class RAGPipeline:
         self.claude = Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
 
         # Load system prompt
-        with open("agent/system_prompt.txt", "r") as f:
+        with open("agent/system_prompt.txt", "r", encoding="utf-8") as f:
             self.system_prompt_template = f.read()
 
         # Settings
