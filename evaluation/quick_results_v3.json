@@ -1,0 +1,555 @@
+[
+  {
+    "question": "At what height is fall protection required for construction workers?",
+    "expected": "Fall protection is required when workers are exposed to a fall of 6 feet or more to a lower level.",
+    "got": "Per the fall-protection rule, **fall protection is required at 6 feet or more**.\n\nSpecifically, employees must be protected from fall hazards and falling objects whenever an employee is on a walking/working surface **6 feet or more above a lower level**.\n\nThe rule establishes this as a **uniform threshold height of 6 feet** and covers most construction workers, with some exceptions for those inspecting or assessing workplace conditions before work starts or after completion.\n\n\u26a0\ufe0f Safety-critical topic: When in doubt, stop work and consult a qualified supervisor.",
+    "answered": true,
+    "sources": [
+      "construction-safety-manual.pdf (page 37)"
+    ]
+  },
+  {
+    "question": "How often must fire extinguishers be inspected and serviced?",
+    "expected": "Fire extinguishers must be kept fully charged, inspected monthly, and serviced annually.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "How much water must employers provide to employees for heat illness prevention?",
+    "expected": "Employers must provide at least one quart of fresh, pure, suitably cool potable water per employee per hour for the entire shift.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.\n\n\u26a0\ufe0f Safety-critical topic: When in doubt, stop work and consult a qualified supervisor.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "How often must supervisors conduct tailgate or toolbox safety meetings?",
+    "expected": "Supervisors must conduct tailgate or toolbox safety meetings at least every 10 working days, though weekly meetings are recommended.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What are the four soil classification categories used for excavation protective systems?",
+    "expected": "The four categories are Stable Rock, Type A soil, Type B soil, and Type C soil.",
+    "got": "Based on the provided Cal/OSHA procedures, there are **four soil classification categories** used for excavation protective systems:\n\n1. **Stable rock**\n2. **Type A soils**\n3. **Type B soils** \n4. **Type C soils**\n\nPer section 1541.1 Appendix A (b), (c), protective system design must be based on these soil classifications.\n\nThe procedures also specify that soil must be classified by a competent person unless the protective system design is based on Type C soil (section 1541.1 Appendix A (c)(1)).\n\n\u26a0\ufe0f Safety-critical topic: When in doubt, stop work and consult a qualified supervisor.",
+    "answered": true,
+    "sources": [
+      "osha_constguideonline.pdf (page 31)"
+    ]
+  },
+  {
+    "question": "At what temperature must hot pipes and surfaces be covered or guarded?",
+    "expected": "Hot pipes and surfaces must be covered with thermal insulating material or guarded when they are at 140\u00b0F (60\u00b0C) or higher and located within 7 feet vertically from the floor or working level, or 15 inches horizontally from stairways, ramps, or fixed ladders.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What is the minimum height at which guardrails must be installed on open work surfaces?",
+    "expected": "Guardrails must be installed at the open sides of all work surfaces that are 7.5 feet or higher above the ground, floor, or level underneath, or workers must be protected by other fall protection means.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "When must an elevator be provided at a construction site?",
+    "expected": "An elevator is required for structures or buildings 60 feet or more above ground level or 48 feet below ground level when completed. It must be installed when the structure reaches 36 feet in height.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What must a written heat illness prevention plan include at a minimum?",
+    "expected": "The plan must include procedures for providing sufficient water, procedures for providing access to shade, high-heat procedures, emergency response procedures, and acclimatization methods and procedures.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What are the three types of protective systems permitted for excavations to protect workers from cave-ins?",
+    "expected": "The three types are sloping/benching, shoring (standard shoring per 1540 and 1541.1), and trench shields. Protective system design must be based on soil classification.",
+    "got": "Based on the provided procedure documents, OSHA requires employers to protect workers from cave-ins using one of three types of protective systems:\n\n1. **Sloping and benching** the sides of the excavation\n2. **Supporting** the sides of the excavation  \n3. **Placing a shield** between the side of the excavation and the work area\n\nPer OSHA excavation requirements, these are the three permitted protective system options that employers must use to prevent cave-ins.\n\n\u26a0\ufe0f Safety-critical topic: When in doubt, stop work and consult a qualified supervisor.",
+    "answered": true,
+    "sources": [
+      "osha_trenching_and_excavation_safety.pdf (page 11)"
+    ]
+  },
+  {
+    "question": "What are the minimum strength requirements for a guardrail top rail?",
+    "expected": "All railings and components must be capable of withstanding a force of at least 200 lbs. applied to the top rail within 2 inches of the top edge, in any outward or downward direction, at any point along the top edge.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What are the key elements required in a written Injury and Illness Prevention Program (IIPP)?",
+    "expected": "The IIPP must include: assignment of responsibilities, a system for ensuring employee compliance with safe work practices, a system for two-way communication about safety, scheduled inspections and hazard evaluation, accident investigation process, procedures for correcting unsafe conditions, safety and health training, employee access to the IIPP, and recordkeeping.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What are the requirements for a Personal Fall Arrest (PFA) system?",
+    "expected": "A PFA system must limit the maximum arresting force on an employee to 1,800 lbs., be rigged so the employee cannot free-fall more than 6 feet or contact any lower level, and have anchorage points able to support 5,000 lbs. per employee attached. The use of a body belt as part of a PFA system is prohibited.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What high-heat procedures must employers implement when temperature reaches 95\u00b0F?",
+    "expected": "Employers must implement high-heat procedures including: training all employees to recognize heat illness signs and symptoms, ensuring employees stay in contact and observe each other, monitoring employees using buddy systems or regular communication, reminding employees throughout the shift to drink plenty of water, providing close supervision to new employees, and conducting pre-shift meetings to review procedures.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What permit requirements apply to excavations in California?",
+    "expected": "A DOSH permit is required before workers enter excavations that are 5 feet deep or deeper. Also, for excavations deeper than 20 feet, protective systems must be designed by a registered engineer.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What are the lock-out/block-out requirements before cleaning, repairing, or adjusting machinery?",
+    "expected": "Machinery capable of movement must be stopped and the power source de-energized or disengaged. Moveable parts must be mechanically blocked or locked out. Accident prevention signs or tags must be placed on the controls. A written hazardous energy control procedure must be developed and used. For equipment with lockable controls, it must be locked out or sealed in the off position.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "A worker is preparing to enter a permit-required confined space. What must the employer do before allowing entry?",
+    "expected": "The employer must have a competent person identify all confined spaces, post danger signs informing employees of permit spaces, comply with all applicable Cal/OSHA regulations, implement a written permit space program that includes: procedures to identify and evaluate permit spaces, measures to prevent unauthorized entry, a system for issuing and canceling entry permits, procedures to test and monitor atmospheric and physical hazards, an attendant posted outside at all times, appropriate equipment (monitoring, ventilation, PPE, lighting, rescue), employee and supervisor training, and effective on-site rescue procedures.",
+    "got": "Based on the provided procedures, before allowing entry into a permit-required confined space, the employer must ensure the following are in place:\n\n**Testing and Monitoring:**\n\u2022 Procedures to test and monitor the permit spaces before and during all employee entries\n\n**Personnel Requirements:**\n\u2022 An attendant stationed outside the permit space at all times while employees are working inside\n\n**Hazard Control:**\n\u2022 Effective controls of all existing and potential atmospheric and/or physical hazards inside the permit space\n\n**Equipment:**\n\u2022 Appropriate equipment including:\n  - Testing and monitoring tools\n  - Ventilation equipment\n  - Personal protective equipment (PPE)\n  - Lighting\n  - Rescue tools\n\n**Training:**\n\u2022 Employee and supervisor training covering:\n  - Safe work procedures\n  - Hazard identification and controls\n  - Rescue procedures\n\n**Emergency Preparedness:**\n\u2022 Effective rescue and emergency procedures that are immediately available on site\n\n**Coordination:**\n\u2022 Procedures to coordinate entry operations when employees of more than one employer enter the permit space\n\nPer the provided context, this represents a partial list of permit space program requirements. For complete details, refer to sections 1950 and 1952 for scope, application, and reclassification procedures.\n\n\u26a0\ufe0f Safety-critical topic: When in doubt, stop work and consult a qualified supervisor.",
+    "answered": true,
+    "sources": [
+      "osha_constguideonline.pdf (page 16)"
+    ]
+  },
+  {
+    "question": "What respiratory protection is required for different lead trigger task levels in construction?",
+    "expected": "Level 1 tasks (spray painting, manual demolition, manual scraping/sanding, heat gun, power tool cleaning with dust collection) require a half-mask respirator with N100, R100, or P100 filters. Level 2 tasks (lead mortar, burning lead, rivet busting, cleaning power tools without dust collection, dry abrasive cleanup, removing abrasive blasting enclosure) require a full-face mask with N100/R100/P100, or supplied-air hood/helmet, or loose-fitting hood with PAPR. Level 3 tasks (abrasive blasting, welding, cutting, or torch burning on structures) require a half-mask supplied-air respirator in positive pressure mode.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What fall protection requirements apply to workers on roofs with slopes exceeding 4:12 and more than 20 feet in height?",
+    "expected": "For single-unit roofs with slopes exceeding 4:12 and more than 20 feet in height, employees must be protected from falls by one or more of the following: parapets at least 24 inches high, personal fall protection systems, catch platforms, scaffold platforms, eave barriers, or standard railings and toeboards. For multi-unit roofs with slopes exceeding 5:12 and more than 20 feet, similar options apply with the addition of roof jack systems (safety lines required when slope exceeds 7:12).",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.\n\nThe provided context covers:\n- New production-type residential construction with slopes 3:12 and greater (section 1731)\n- Single-unit roofs with slopes 0:12 through 4:12 and more than 20 ft. in height (section 1730(b))\n- Roofs with slopes steeper than 7:12\n\nHowever, it does not specifically address the fall protection requirements for roofs with slopes exceeding 4:12 but less than 7:12 that are more than 20 feet in height for non-production residential construction.\n\n\u26a0\ufe0f Safety-critical topic: When in doubt, stop work and consult a qualified supervisor.",
+    "answered": false,
+    "sources": [
+      "osha_constguideonline.pdf (page 62)",
+      "osha_constguideonline.pdf (page 37)",
+      "osha_constguideonline.pdf (page 61)"
+    ]
+  },
+  {
+    "question": "What are the required steps an employer must take before opening an excavation at a work site?",
+    "expected": "Before opening an excavation, the employer must: identify subsurface installations and ensure they are marked, notify all regional notification centers and subsurface installation owners at least two working days before starting work, receive a positive response from all known owners/operators, meet with owners/operators of high-priority installations within 10 feet of the proposed excavation, ensure only qualified persons perform subsurface locating activities, train all exposed employees in excavator notification and excavation activities, and obtain a DOSH permit if workers will enter an excavation 5 feet deep or deeper.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What is the difference between an excavation and a trench?",
+    "expected": "An excavation is any man-made cut, cavity, trench, or depression in the earth\ufffds surface formed by earth removal. A trench is a narrow excavation made below ground with a depth greater than its width and a bottom width not exceeding 15 feet.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "Why are trenching and excavation considered hazardous?",
+    "expected": "They are among the most hazardous construction operations due to risks like cave-ins, falling loads, hazardous atmospheres, and mobile equipment.",
+    "got": "According to the OSHA Excavation standards (29 CFR Part 1926, Subpart P), trenching and excavation are considered hazardous because:\n\n**Excavation and trenching are among the most hazardous construction operations.** The work presents serious hazards to all workers involved.\n\n**Cave-ins pose the greatest risk** and are more likely than some other excavation-related incidents to result in worker fatalities or serious injuries.\n\nThe hazardous nature of this work is significant enough that OSHA has dedicated specific standards (Subpart P) entirely to excavation and trenching safety requirements.\n\n\u26a0\ufe0f Safety-critical topic: When in doubt, stop work and consult a qualified supervisor.",
+    "answered": true,
+    "sources": [
+      "osha_trenching_and_excavation_safety.pdf (page 7)"
+    ]
+  },
+  {
+    "question": "What is the greatest risk in trenching work?",
+    "expected": "Cave-ins are the greatest risk and are more likely than other incidents to result in worker fatalities.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What other hazards are associated with excavation work?",
+    "expected": "Falling loads, hazardous atmospheres, and hazards from mobile equipment.",
+    "got": "Based on the provided procedures, excavation work involves several hazards beyond cave-ins:\n\n**Additional Excavation Hazards:**\n\u2022 **Falling loads** - Materials or equipment that could fall or roll into the excavation area\n\u2022 **Mobile equipment hazards** - Risks from machinery and vehicles operating near excavations\n\n**Equipment-Related Hazards:**\n\u2022 **Defective protective systems** - Damaged materials and equipment used for protective systems can cause system failures and create additional excavation hazards\n\nPer the excavation safety procedures, employers must protect workers from \"excavated or other materials or equipment that could pose a hazard by falling or rolling\" and address risks from mobile equipment.\n\nThe procedures also emphasize that \"defective and damaged materials and equipment can cause protective systems to fail and lead to other excavation hazards.\"\n\n\u26a0\ufe0f Safety-critical topic: When in doubt, stop work and consult a qualified supervisor.",
+    "answered": true,
+    "sources": [
+      "osha_trenching_and_excavation_safety.pdf (page 15)",
+      "osha_trenching_and_excavation_safety.pdf (page 15)"
+    ]
+  },
+  {
+    "question": "What do OSHA Excavation standards apply to?",
+    "expected": "They apply to all open excavations made in the Earth\ufffds surface, including trenches.",
+    "got": "According to the OSHA Excavation standards documentation:\n\n**The standards apply to all open excavations made in the Earth's surface, including trenches.**\n\nFollowing the requirements of these standards will prevent or greatly reduce the risk of cave-ins and other excavation-related incidents.\n\nThe standards are designed to address the serious hazards present in trenching and excavation work, with cave-ins posing the greatest risk and being more likely to result in worker fatalities than other excavation-related incidents.\n\n\u26a0\ufe0f Safety-critical topic: When in doubt, stop work and consult a qualified supervisor.",
+    "answered": true,
+    "sources": [
+      "osha_trenching_and_excavation_safety.pdf (page 7)",
+      "osha_trenching_and_excavation_safety.pdf (page 5)"
+    ]
+  },
+  {
+    "question": "What are the four soil classification categories?",
+    "expected": "Stable rock, Type A, Type B, and Type C.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What is a competent person in excavation safety?",
+    "expected": "An individual capable of identifying hazards and authorized to take corrective actions.",
+    "got": "According to the excavation safety procedures, a **competent person** is an individual, designated by the employer, who is capable of identifying existing and predictable hazards in the surroundings or working conditions which are unsanitary, hazardous or dangerous to workers, and who is authorized to take prompt corrective measures to eliminate them.\n\n**Under the Excavation standards, tasks performed by the competent person include:**\n\n\u2022 Classifying soil\n\u2022 Inspecting protective systems  \n\u2022 Designing structural ramps\n\u2022 Monitoring water removal equipment\n\u2022 Conducting site inspections\n\n\u26a0\ufe0f Safety-critical topic: When in doubt, stop work and consult a qualified supervisor.",
+    "answered": true,
+    "sources": [
+      "osha_trenching_and_excavation_safety.pdf (page 9)"
+    ]
+  },
+  {
+    "question": "What are the three methods to prevent cave-ins?",
+    "expected": "Sloping, shoring/support systems, and shielding.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "How far must materials be kept from excavation edges?",
+    "expected": "At least 2 feet away from the edge.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.\n\n\u26a0\ufe0f Safety-critical topic: When in doubt, stop work and consult a qualified supervisor.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What access and inspection requirements apply to trenches?",
+    "expected": "Safe access like ladders within 25 feet and daily inspections by a competent person.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What defines Type A soil?",
+    "expected": "Cohesive soil with compressive strength of 1.5 tsf or greater, such as clay, unless fissured or previously disturbed.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "Why is preplanning important in excavation work?",
+    "expected": "It helps prevent accidents and avoids costly and dangerous corrections after work begins.",
+    "got": "Based on the provided context, preplanning is important to excavation work because:\n\n**Many on-the-job incidents result from inadequate initial planning.** The procedures emphasize that regardless of how many trenching, shoring, and backfilling jobs an employer has completed previously, **each new job must be approached with care and preparation.**\n\nThe context indicates that waiting until after work has begun to address planning issues can lead to safety incidents.\n\n\u26a0\ufe0f Safety-critical topic: When in doubt, stop work and consult a qualified supervisor.\n\n*Note: The provided context contains limited information on this topic. For more detailed preplanning requirements and procedures, additional documentation may be needed.*",
+    "answered": true,
+    "sources": [
+      "osha_trenching_and_excavation_safety.pdf (page 9)"
+    ]
+  },
+  {
+    "question": "What safety factors should be considered when bidding on excavation work?",
+    "expected": "Traffic, nearby structures, soil classification, water conditions, utilities, weather, equipment, and protective systems.",
+    "got": "According to OSHA excavation safety guidance, employers should consider the following safety factors when bidding on excavation jobs:\n\n**Site Conditions:**\n\u2022 Traffic\n\u2022 Proximity and physical condition of nearby structures\n\u2022 Soil classification\n\u2022 Surface and ground water\n\u2022 Location of the water table\n\u2022 Weather\n\n**Utilities and Hazards:**\n\u2022 Overhead and underground utilities\n\n**Equipment and Protection Needs:**\n\u2022 Quantity of shoring or protective systems that may be required\n\u2022 Fall protection needs\n\u2022 Number of ladders that may be needed\n\u2022 Other equipment needs\n\n**Information Gathering:**\nThe document states that employers can gather this information through jobsite studies, observations, test borings for soil type or conditions, and consultations with local officials and utility companies.\n\nThe guidance emphasizes that knowing as much as possible about the jobsite and required safety materials before bidding helps ensure work can be performed safely and in OSHA compliance, while avoiding costly corrections that could increase cave-in risks.\n\n\u26a0\ufe0f Safety-critical topic: When in doubt, stop work and consult a qualified supervisor.",
+    "answered": true,
+    "sources": [
+      "osha_trenching_and_excavation_safety.pdf (page 10)"
+    ]
+  },
+  {
+    "question": "How can employers avoid hitting underground utilities?",
+    "expected": "By identifying utility locations, contacting utility companies, using 811, and verifying locations before digging.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "When is a protective system not required?",
+    "expected": "When excavation is in stable rock or less than 5 feet deep with no cave-in risk determined by a competent person.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What precautions are needed near adjacent structures?",
+    "expected": "Provide support systems like shoring or underpinning to prevent collapse.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "How should protective system materials be maintained?",
+    "expected": "They must be free from defects, inspected by a competent person, and removed if unsafe.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What precautions are required when water accumulates in an excavation?",
+    "expected": "Use protective systems, remove water, monitor equipment, and prevent workers from entering unsafe areas.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.\n\n\u26a0\ufe0f Safety-critical topic: When in doubt, stop work and consult a qualified supervisor.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "When is atmospheric testing required?",
+    "expected": "Before entering excavations deeper than 4 feet where hazardous atmospheres may exist.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What are key requirements for installing/removing support systems?",
+    "expected": "They must be securely connected, installed safely, not overloaded, and removed from the bottom up while backfilling.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "When can employers proceed with caution if utility owners cannot establish the exact location of underground installations?",
+    "expected": "If utility owners cannot respond within 24 hours (or the time required by law) or cannot establish the exact location, employers may proceed with caution using detection equipment or other acceptable means.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What slope is described as safe for any type of soil, and how is it measured?",
+    "expected": "A slope of 1\ufffd:1 is considered safe, meaning for every 1 foot of depth, the trench must be excavated back 1.5 feet.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "In what situations must emergency rescue equipment be readily available in an excavation?",
+    "expected": "When hazardous atmospheric conditions exist or could reasonably be expected, such as oxygen deficiency or toxic gases.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.\n\n\u26a0\ufe0f Safety-critical topic: When in doubt, stop work and consult a qualified supervisor.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What are the requirements for workers entering bell-bottom pier holes or similar deep confined footing excavations?",
+    "expected": "Workers must wear a harness with a lifeline securely attached, separate from material lines, and the lifeline must be attended by an observer at all times.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.\n\n\u26a0\ufe0f Safety-critical topic: When in doubt, stop work and consult a qualified supervisor.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "When must a competent person inspect excavations beyond the normal daily inspection?",
+    "expected": "Inspections must also occur after events like rainstorms or any hazard-increasing occurrences such as blasting.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What should workers know and follow about company safety rules on a construction site?",
+    "expected": "Workers should know the company safety rules, learn them during orientation and regular toolbox talks, and follow site-specific safe work procedures. Rules should be kept current and communicated regularly so workers understand the hazards and the expected safe actions.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "For a weekly toolbox talk, how should supervisors run the meeting so it is useful for the crew?",
+    "expected": "Supervisors should hold regular weekly toolbox talks, keep them short and focused, prepare the topic in advance, and discuss safety matters that apply to the crew's actual work. Meetings should be held where workers can hear and participate.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "Who is considered a competent person on a construction site?",
+    "expected": "A competent person is someone designated by the company who can identify existing and potential hazards and has authority to correct them. The role depends on knowledge, training, and authority for the specific work, not simply on holding a generic class certificate.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What housekeeping steps help prevent fires on a job site?",
+    "expected": "Workers should dispose of scrap before it piles up, store flammable liquids in approved self-closing containers, keep combustible materials away from heat sources, and shut engines off so hot parts can cool before refueling.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What should every worker know about fire extinguishers on site?",
+    "expected": "Workers should know where fire extinguishers are located, how to operate them safely during the beginning stage of a fire, what classes of fires and extinguishers exist, how to call the fire department, and that used extinguishers must be recharged before being returned to service.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What information should workers be able to find on an MSDS or SDS?",
+    "expected": "An MSDS or SDS should identify the substance, describe chemical and physical characteristics, list physical and health hazards, routes of entry, exposure limits, control measures, protective measures for use and cleanup, and first-aid measures for accidental exposure.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What makes a space a confined space?",
+    "expected": "A confined space is large enough for an employee to enter and perform work, has limited or restricted entry or exit, and is not designed for continuous employee occupancy. Employers must identify and evaluate confined spaces and determine whether entry requires a permit.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.\n\n\u26a0\ufe0f Safety-critical topic: When in doubt, stop work and consult a qualified supervisor.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "Why should workers wear hearing protection around loud equipment?",
+    "expected": "Too much noise too often can damage the hair cells in the ear and cause irreversible hearing loss. Hearing protection, even when not legally required, can prevent this damage; common protection includes earmuffs, molded plugs, formable plugs, and canal caps.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "Before an operator uses mobile equipment on site, what should be checked?",
+    "expected": "Mobile equipment should be run by a qualified operator whose judgment is not impaired by drugs, alcohol, or fatigue. The vehicle should be operable and well maintained, with identified controls, functioning brakes, clean and intact glass, mirrors, lights, and reflectors, and tires or tracks in good condition.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What basic rules apply when using hand tools?",
+    "expected": "Workers should choose the correct tool, make sure it is in good condition, use it properly, maintain or remove defective tools from service, and use PPE when exposed to flying, abrasive, splashing, dust, fume, or vapor hazards. Tools should not be misused, such as using screwdrivers as pry bars or pliers as hammers.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What should workers do if they find a damaged ladder?",
+    "expected": "If a ladder has defects, it should be immediately marked or tagged 'Do Not Use' or similar wording and withdrawn from service until repaired. Repairs must restore the ladder to its original design criteria; if it cannot be repaired, it should be destroyed before disposal.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.\n\n\u26a0\ufe0f Safety-critical topic: When in doubt, stop work and consult a qualified supervisor.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What should be done before and during a permit-required confined space entry?",
+    "expected": "Before entry, acceptable entry conditions must be specified, hazards must be identified and evaluated, and atmospheric testing must be performed and continued as needed. Workers need barriers, proper equipment, trained attendants outside the space, constant communication, and a completed permit posted at the entry point.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.\n\n\u26a0\ufe0f Safety-critical topic: When in doubt, stop work and consult a qualified supervisor.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "Before a crane lift, what should the crew check about the crane, site, and lift setup?",
+    "expected": "Before a lift, check terrain, ground conditions, weather, crane mobility, and overhead utilities. The crane must be in good mechanical condition with enough capacity, inspection documentation, load charts, and operator manuals. Also keep the swing radius clear, check overhead obstructions and electrical clearances, and perform a trial lift.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.\n\n\u26a0\ufe0f Safety-critical topic: When in doubt, stop work and consult a qualified supervisor.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What precautions are required for powder-actuated tools?",
+    "expected": "Only trained employees should use the specific powder-actuated tool. The tool should be inspected and tested before each shift according to the manufacturer's procedure, loaded with the correct charge only just before firing, and never stored or left loaded.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "When setting up or using scaffolds, what basic requirements should workers follow?",
+    "expected": "Scaffolds should be erected and dismantled under a competent person's supervision. Components must be undamaged, planking must be scaffold grade and properly extended or secured, safe access must be provided, debris and slippery substances must be removed, braces must be in place, footing must be solid and stable, and workers must not ride moving mobile scaffolds.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What should operators inspect or consider before working from an aerial lift?",
+    "expected": "Before using an aerial lift, operators should inspect functions and controls, lower controls, emergency and safety devices, structural components, placards, leaks, tires, wheels, guardrails, gates, load distribution, and site conditions such as holes, slopes, overhead obstructions, weather, surface support, and hazardous locations. Boom lift operators must wear a body harness with lanyard attached to the boom or basket.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.\n\n\u26a0\ufe0f Safety-critical topic: When in doubt, stop work and consult a qualified supervisor.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "When selecting a respirator for a job, what should be considered?",
+    "expected": "Respirator selection should start by assessing potential exposure and industrial hygiene data, reviewing engineering or administrative controls, considering work conditions that could affect respirator use, understanding respirator limitations, selecting only approved respirators, and ensuring the employee is medically able and trained to use the equipment.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "When workers need fall protection at height, what precautions should they follow?",
+    "expected": "Workers need fall protection when exposed to fall hazards at the required height, and the employer must assess walking and working surfaces before selecting the protection system. Precautions can include guardrails, safety nets, or personal fall-arrest systems. Workers should also protect against falling objects with hard hats, toeboards, screens, guardrails, canopies, or barricades, and defective fall-arrest components must be removed from service.",
+    "got": "Based on the provided context, I can only give you limited information about fall protection requirements:\n\n**Height Threshold:**\nFall protection is required when employees are on a walking/working surface **6 feet or more** above a lower level.\n\n**Coverage:**\nThe fall-protection rule covers most construction workers, except those inspecting, investigating, or assessing workplace conditions before work starts or after completion.\n\n**Specialized Work:**\nOther OSHA regulations have specific fall-protection requirements for workers on:\n- Scaffolds\n- Cranes and derricks  \n- Steel erection\n- Tunneling equipment\n- Electrical transmission and distribution lines\n- Stairways and ladders\n\nHowever, the provided context does not contain the specific precautions and procedures workers should follow when using fall protection equipment. \n\nI cannot find this information in the available procedures. This question has been logged for review by the team lead.\n\n\u26a0\ufe0f **Safety-critical topic: When in doubt, stop work and consult a qualified supervisor.**",
+    "answered": false,
+    "sources": [
+      "construction-safety-manual.pdf (page 37)"
+    ]
+  },
+  {
+    "question": "Before starting work at a new area, what should the crew check for in a site-specific safety plan?",
+    "expected": "Before work starts, the crew should inspect the area for unique hazards and make sure employees know how to eliminate or avoid them. The plan can address emergency procedures, utility contacts, other contractors, weather, environmental conditions, and hazardous activities such as confined space entry, blasting, steel erection, or excavating.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "For general safety training before a worker performs a task, what should the training cover?",
+    "expected": "Training should cover general safety and health issues, the specific procedures for doing the job safely, site-specific hazards, and non-routine tasks. Good training explains why the topic matters, breaks the task into understandable steps, and highlights the key safety points.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What should an emergency action plan tell workers to do during a fire or other emergency?",
+    "expected": "An emergency action plan should explain escape procedures and route assignments, what to do if workers must operate critical equipment before evacuation, how to account for employees after evacuation, and rescue or medical duties for assigned personnel.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What should supervisors do after an accident or near miss?",
+    "expected": "Supervisors should treat near misses seriously, investigate to find unsafe conditions or procedures, keep accident conditions unchanged until the investigation is done when possible, stop the job function involved until the matter is cleared, and take immediate corrective action to prevent recurrence.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "How does a job safety analysis help a crew work safely?",
+    "expected": "A JSA breaks the job into elements, looks for hazards in each step, identifies unsafe procedures that could occur, and uses worker knowledge and experience to establish safe work procedures before the work is performed.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "For a non-routine task, what information should the supervisor give affected employees?",
+    "expected": "The supervisor should determine the hazards that may be present or created and communicate them to affected employees. The information should include specific hazardous conditions, protective or safety measures employees must take, special equipment, and measures the company has taken to reduce the hazards.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What hazard communication training should employees receive?",
+    "expected": "Employees should receive general hazard communication training, including awareness of the standard, the company's hazard communication program, and how to read MSDSs/SDSs and labels. Workers with exposure should also receive specific training on hazardous substances in their work area, protective measures, label reading, and the location of MSDSs/SDSs.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What conditions can make a confined space permit-required?",
+    "expected": "A confined space can require a permit if it contains or could contain a hazardous atmosphere, contains material that could engulf an entrant, has a configuration that could trap or asphyxiate a worker, or contains another serious safety or health hazard.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "When should forklift or powered industrial truck operators receive refresher training?",
+    "expected": "Forklift or powered industrial truck operators should receive refresher training after an accident, after a near miss, or when they are observed operating unsafely. Training should also be based on the operator's prior knowledge and skill, the type of PIT used, site hazards, and demonstrated operating ability.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "How should a crane operator move a load once the lift begins?",
+    "expected": "The operator should make smooth and steady movements, avoid sudden direction or speed changes, keep the load under control, never swing the load over people, and use taglines when needed to control the load.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.\n\n\u26a0\ufe0f Safety-critical topic: When in doubt, stop work and consult a qualified supervisor.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "How should workers protect themselves when using electric power tools?",
+    "expected": "Electric tools should either have a grounded three-wire cord or be double insulated. Workers should use GFCI protection, operate tools within their design limits, wear gloves and safety footwear, store tools dry, avoid damp locations, keep work areas well lit, and never remove guards.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.\n\n\u26a0\ufe0f Safety-critical topic: When in doubt, stop work and consult a qualified supervisor.",
+    "answered": false,
+    "sources": []
+  },
+  {
+    "question": "What should a PPE program include?",
+    "expected": "A PPE program should include a communicated policy for employees and visitors, responsibility for selecting equipment, PPE training requirements, instructions on correct use and maintenance, inspection and replacement procedures, and a way to enforce proper PPE use.",
+    "got": "I cannot find this information in the available procedures. This question has been logged for review by the team lead.",
+    "answered": false,
+    "sources": []
+  }
+]

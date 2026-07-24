@@ -27,7 +27,7 @@ if [ ! -d "venv" ]; then
 fi
 
 # 3. Activate virtual environment
-#source "$(dirname "$0")/venv/bin/activate"
+source "$(pwd)/venv/bin/activate"
 
 # 4. Install dependencies
 echo "Installing dependencies..."
