@@ -72,7 +72,7 @@ class AnswerResponse(BaseModel):
 
 @app.get("/health")
 def health_check():
-    return {"status": "ok", "message": "Construction Safety Agent is running"}
+    return {"status": "ok", "message": "Amplytico Reference Intelligence Agent is running"}
 
 
 @app.post("/ask", response_model=AnswerResponse)
