@@ -3,7 +3,7 @@ import requests
 from datetime import datetime
 import time
 
-API_URL = "http://localhost:8000/ask"
+API_URL = "http://127.0.0.1:8000/ask"
 
 api_key = st.secrets["ANTHROPIC_API_KEY"]
 
