@@ -9,7 +9,7 @@ from collections import defaultdict
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from agent.rag_pipeline import RAGPipeline
 
-app = FastAPI(title="Construction Safety AI Agent")
+app = FastAPI(title="Amplytico Reference Intelligence Agent")
 pipeline = RAGPipeline()
 
 # Simple in-memory rate limiter
