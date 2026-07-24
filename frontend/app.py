@@ -311,7 +311,7 @@ if prompt := st.chat_input("Ask a construction safety question..."):
                 ]
 
                 response = requests.post(
-                    API_URL,
+                    f"{API_URL}/ask",
                     json={"question": prompt, "history": history},
                     timeout=120,
                 )
