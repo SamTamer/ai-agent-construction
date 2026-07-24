@@ -119,6 +119,7 @@ class RAGPipeline:
             for block in message.content
             if hasattr(block, "text")
         )
+        print(message.content)
 
         # Step 6: Check if agent flagged as unanswered
         if "I cannot find this information" in response:
