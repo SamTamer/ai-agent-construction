@@ -106,13 +106,19 @@ class RAGPipeline:
                 messages.append({"role": turn["role"], "content": turn["content"]})
         messages.append({"role": "user", "content": current_prompt})
 
-        # Step 5: Call Claude API
+      # Step 5: Call Claude API
         message = self.claude.messages.create(
-            model="claude-sonnet-5",
-            max_tokens=1024,
-            messages=messages,
+        model="claude-sonnet-5",
+        max_tokens=1024,
+        messages=messages,
         )
-        response = message.content[0].text
+
+        # Extract all text blocks from the response
+        response = "".join(
+            block.text
+            for block in message.content
+            if hasattr(block, "text")
+        )
 
         # Step 6: Check if agent flagged as unanswered
         if "I cannot find this information" in response:
